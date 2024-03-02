@@ -20,3 +20,7 @@ make
 ## Input Files
 
 Place your text files in the same folder as your solution file. Ensure that your code reads the files using relative paths or adjust the working directory appropriately in your code.
+
+## Contributors
+- Rutschka Simon
+- Wunsch Lukas
